@@ -1,7 +1,10 @@
 <p align="center">
 <img width=700 height=393 src=https://github.com/retr0ds/retr0ds/assets/75214461/8eb16185-719d-4a36-a8a3-e881587ee089">
 </p>
-
+<p align="center">
+<a href="mailto:sidharth0x56@gmail.com">Email</a>&nbsp;&nbsp;
+<a href="https://retr0ds.github.io">Website</a>&nbsp;&nbsp;
+</p>
 <h1 align="center">Hey there! I'm Sidharth aka retr0ds👾, Nice to meet you!<img height="50" src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif"></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=4500&size=30&duration=4000&pause=1000&color=18F6F7&random=false&width=435&lines=retr0ds%40github%3A~%24+whoami" alt="Typing SVG" /></a>
@@ -13,14 +16,6 @@
     Yep, that's about it.
 
 
-## Connect with me 
-<p align="center">
-<a href="https://www.linkedin.com/in/sidharth0x56">LinkedIn</a>&nbsp;&nbsp;
-<a href="https://twitter.com/_retr0ds_">Twitter</a>&nbsp;&nbsp;
-<a href="mailto:sidharth0x56@gmail.com">Email</a>&nbsp;&nbsp;
-<a href="https://retr0ds.github.io">Website</a>&nbsp;&nbsp;
-<a href="https://discord.com/users/retr0ds">Discord</a>
-</p>
 
 # 💻 Tech Stack
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
