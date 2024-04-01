@@ -7,10 +7,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=4500&size=30&duration=4000&pause=1000&color=18F6F7&random=false&width=435&lines=retr0ds%40github%3A~%24+whoami" alt="Typing SVG" /></a>
   - 🚩 I'm a CTF Player and Team Lead at <a href="https://bi0s.in"><img height=18 src="https://github.com/retr0ds/retr0ds/assets/75214461/be77066f-9f8a-4f5e-86a1-717652515291"></a>
   - 🎓 Currently a 3rd Year Computer Science Student at [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/) 
-  - ⚙️ I do Reverse Engineering and Malware Analysis! <img height=30 src="https://github.com/retr0ds/retr0ds/assets/75214461/e3553a8a-cad3-4417-a090-4b232fed64d5">
- 
-  - 🐱‍💻 Currently learning about Malware development and expermienting around various Red Teaming Techniques in Windows 
-  - ✨**Review by a friend(me)**: Sidharth shares a common trait with some of the world figures like Einstein, Hawking, Mozart. They're all male. Yep, that's about it.
+  - ⚙️ I do Reverse Engineering and Malware Analysis<img height=30 src="https://github.com/retr0ds/retr0ds/assets/75214461/e3553a8a-cad3-4417-a090-4b232fed64d5">
+  - 🐱‍💻 Currently learning about Malware development and experimenting around various Red Teaming Techniques in Windows
+  - ✨**Review by a friend(me)**: Sidharth shares a common trait with some of the world figures like Einstein, Hawking, Mozart. They're all male.
+    Yep, that's about it.
+
 
 ## Connect with me 
 <p align="center">
@@ -26,11 +27,11 @@
 
 # 📊 GitHub Stats
 ![retr0ds's GitHub stats](https://github-readme-stats.vercel.app/api?username=retr0ds&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=retr0ds&theme=dark&hide_border=false&show_icons=true&theme=tokyonight)
+![retr0ds's Github stats 2](https://github-readme-streak-stats.herokuapp.com/?user=retr0ds&theme=dark&hide_border=false&show_icons=true&theme=tokyonight)
 
 
 <h1 align="left">🌐Socials</h1>
-<p align="center" >
+<p align="center">
 <a href="https://twitter.com/_retr0ds_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_retr0ds_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sidharth0x56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidharth" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21430089/retr0ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="a" height="30" width="40" /></a>
@@ -38,7 +39,6 @@
 <a href="https://www.youtube.com/c/retr0ds417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a" height="30" width="40" /></a>
 <a href="https://discord.gg/users/retr0ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a" height="30" width="40" /></a>
 </p>
-
 
 
 
