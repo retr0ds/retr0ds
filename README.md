@@ -14,6 +14,7 @@
   - 🐱‍💻 Currently learning about Malware development and experimenting around various Red Teaming Techniques in Windows
   - ✨**Review by a friend(me)**: Sidharth shares a common trait with some of the world figures like Einstein, Hawking, Mozart. They're all male.
     Yep, that's about it.
+  - My discord : retr0ds
 
 
 
