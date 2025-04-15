@@ -8,8 +8,8 @@
 <h1 align="center">Hey there! I'm Sidharth aka retr0ds👾, Nice to meet you!<img height="50" src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif"></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=4500&size=30&duration=4000&pause=1000&color=18F6F7&random=false&width=435&lines=retr0ds%40github%3A~%24+whoami" alt="Typing SVG" /></a>
-  - 🚩 I'm a CTF Player and Team Lead at <a href="https://bi0s.in"><img height=18 src="https://github.com/retr0ds/retr0ds/assets/75214461/be77066f-9f8a-4f5e-86a1-717652515291"></a>
-  - 🎓 Currently a 3rd Year Computer Science Student at [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/) 
+  - 🚩 I'm a CTF Player at <a href="https://bi0s.in"><img height=18 src="https://github.com/retr0ds/retr0ds/assets/75214461/be77066f-9f8a-4f5e-86a1-717652515291"></a>
+  - 🎓 Currently a Final Year Computer Science Student at [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/) 
   - ⚙️ I do Reverse Engineering and Malware Analysis<img height=30 src="https://github.com/retr0ds/retr0ds/assets/75214461/e3553a8a-cad3-4417-a090-4b232fed64d5">
   - 🐱‍💻 Currently learning about Malware development and experimenting around various Red Teaming Techniques in Windows
   - ✨**Review by a friend(me)**: Sidharth shares a common trait with some of the world figures like Einstein, Hawking, Mozart. They're all male.
